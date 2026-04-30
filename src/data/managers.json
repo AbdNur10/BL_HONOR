@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": 1,
+    "name": "ARAFAT KHANDAKAR",
+    "role": "TEAM MANAGER",
+    "facebook":"https://www.facebook.com/share/1MzgSUYTrn/",
+    "photo": "/m5.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "S M TANZIM TUHIN",
+    "role": "TEAM MANAGER",
+    "facebook":"https://www.facebook.com/share/1G7b5ZHoDm/",
+    "photo": "/m6.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "MASHFIUL ARAFAT",
+    "role": "FINANCE MANAGER",
+    "facebook":"https://www.facebook.com/share/17W3eED7iY/",
+    "photo": "/m1.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "SHAFI RIFAT",
+    "role": "OPERATION EXECUTIVE",
+    "facebook":"",
+    "photo": "/m2.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "SANJIT MAHATO",
+    "role": "CULTURAL & SOCIAL MANAGER",
+    "facebook":"https://www.facebook.com/share/1BTvP47LLE/",
+    "photo": "/m3.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "AL RAFI",
+    "role": "MEDICAL OFFICER & MANAGEMENT",
+    "facebook":"https://www.facebook.com/share/18WcQ4nuQL/",
+    "photo": "/m4.jpeg"
+  }
+]

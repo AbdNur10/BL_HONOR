@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "url": "/public/team.png",
+    "title": "Opening Ceremony"
+  },
+  {
+    "id": 2,
+    "url": "/public/practise1.png",
+    "title": "Goal Celebration"
+  },
+  {
+    "id": 3,
+    "url": "/public/practise2.png",
+    "title": "Team Huddle"
+  },
+  {
+    "id": 4,
+    "url": "/public/practise3.png",
+    "title": "Training Session"
+  },
+  {
+    "id": 5,
+    "url": "/public/practise4.png"
+  }
+]

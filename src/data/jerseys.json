@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "season": "2026",
+    "image": "/jer2.png",
+    "description": "Modern blue-themed jersey with sleek gradient design, symbolizing unity, strength, and a fresh new era for the team."
+  },
+  {
+    "id": 2,
+    "season": "2025",
+    "image": "/jer1.png",
+    "description": "Bold red-inspired jersey representing passion, energy, and fighting spirit during a highly competitive season."
+  },
+  {
+    "id": 3,
+    "season": "2024",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
+  }
+]

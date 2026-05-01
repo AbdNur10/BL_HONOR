@@ -24,7 +24,7 @@ const SplashScreen = () => {
           Champions Arena
         </h1>
         <p className="text-green-400 mt-2 text-lg">
-          School Football Tournament 2026
+          B.L Honor Cup 2026- Team ANIRUDDHA 17
         </p>
       </motion.div>
     </div>

@@ -2,7 +2,7 @@
 [
   {
     "id": 1,
-    "url": "/public/team.png",
+    "url": "/team.png",
     "title": "Opening Ceremony"
   },
   {
@@ -12,16 +12,51 @@
   },
   {
     "id": 3,
-    "url": "/public/practise2.png",
+    "url": "/practise2.png",
     "title": "Team Huddle"
   },
   {
     "id": 4,
-    "url": "/public/practise3.png",
+    "url": "/practise3.png",
     "title": "Training Session"
   },
   {
     "id": 5,
-    "url": "/public/practise4.png"
+    "url": "/practise4.png",
+    "title": "Training Session"
+  },
+    {
+    "id": 6,
+    "url": "/prac6.png",
+    "title": "Opening Ceremony"
+  },
+  {
+    "id": 7,
+    "url": "/prac7.png",
+    "title": "Goal Celebration"
+  },
+  {
+    "id": 8,
+    "url": "/prac8.png",
+    "title": "Team Huddle"
+  },
+  {
+    "id": 9,
+    "url": "/prac9.png",
+    "title": "Training Session"
+  },
+  {
+    "id": 10,
+   "url": "/prac10.png"
+  },
+    {
+    "id": 11,
+    "url": "/prac11.png",
+    "title": "Training Session"
+  },
+  {
+    "id": 12,
+   "url": "/prac12.png",
+   "title": "Training Session"
   }
 ]

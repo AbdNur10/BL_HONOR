@@ -14,19 +14,19 @@
   {
     "id": 3,
     "season": "2024",
-    "image": "/public/jer3.png",
+    "image": "/jer3.png",
     "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
   },
     {
     "id": 4,
     "season": "2023",
-    "image": "/public/jer4.png",
+    "image": "/jer4.png",
     "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
   },
     {
     "id": 5,
     "season": "2022",
-    "image": "/public/jer5.png",
+    "image": "/jer5.png",
     "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
   }
 ]

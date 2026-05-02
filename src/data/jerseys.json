@@ -8,13 +8,25 @@
   {
     "id": 2,
     "season": "2025",
-    "image": "/jer1.png",
+    "image": "/jer7.png",
     "description": "Bold red-inspired jersey representing passion, energy, and fighting spirit during a highly competitive season."
   },
   {
     "id": 3,
     "season": "2024",
-    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "image": "/public/jer3.png",
+    "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
+  },
+    {
+    "id": 4,
+    "season": "2023",
+    "image": "/public/jer4.png",
+    "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
+  },
+    {
+    "id": 5,
+    "season": "2022",
+    "image": "/public/jer5.png",
     "description": "Neon green futuristic design with lightweight breathable fabric, focusing on speed, agility, and eco-friendly performance."
   }
 ]
